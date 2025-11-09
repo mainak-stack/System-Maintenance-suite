@@ -1,0 +1,7 @@
+2025-11-09 13:19:06 - SUITE - User selected: Run Log Monitor
+2025-11-09 13:19:06 - MONITOR - ERROR: Log file /var/log/syslog not found.
+2025-11-09 13:19:06 - SUITE - ERROR: monitor.sh encountered an error.
+2025-11-09 13:19:47 - SUITE - User selected: Run Backup
+2025-11-09 13:19:47 - BACKUP - ERROR: Source directory /home/user/Documents does not exist.
+2025-11-09 13:19:47 - SUITE - ERROR: backup.sh encountered an error.
+2025-11-09 13:20:21 - SUITE - User selected: View Log
